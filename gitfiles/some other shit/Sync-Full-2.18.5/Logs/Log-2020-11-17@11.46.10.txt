@@ -1,0 +1,62 @@
+[11:46:10 PM] Loading....
+[11:46:11 PM] Load InternalPlugin ...
+[11:46:11 PM] Beatmap Suggest Command By Dark Projector
+[11:46:11 PM] Load Beatmap Suggest Command ...
+[11:46:11 PM] [BeatmapSuggestPlugin]there is no ApiKey in config.ini,please provide your osu!api_key for using.ApiKey address:https://osu.ppy.sh/p/api
+[11:46:11 PM] Load ConfigGUI ...
+[11:46:11 PM] Load Tray ...
+[11:46:11 PM] Load Default Plug-ins ...
+[11:46:11 PM] Default Plugin by Deliay
+[11:46:11 PM] Load Now Playing ...
+[11:46:11 PM] Now Playing By Deliay, DarkProjector
+[11:46:11 PM] MSN类注册成功！
+[11:46:11 PM] [BeatmapSuggestPlugin]there is no ApiKey in config.ini,please provide your osu!api_key for using.ApiKey address:https://osu.ppy.sh/p/api
+[11:46:11 PM] Load OsuRTDataProvider ...
+[11:46:11 PM] OsuRTDataProvider By KedamaOvO
+[11:46:11 PM] Load PP Query ...
+[11:46:11 PM] PP Query Plugin By Deliay >w<
+[11:46:11 PM] Load RealTimePPDisplayer ...
+[11:46:11 PM] [BeatmapSuggestPlugin]there is no ApiKey in config.ini,please provide your osu!api_key for using.ApiKey address:https://osu.ppy.sh/p/api
+[11:46:11 PM] RealTimePPDisplayer By KedamaOvO Ver.1.8.7
+[11:46:11 PM] Load Recently Message Query Plugin ...
+[11:46:11 PM] Recently Message Query Plugin By Dark Projector
+[11:46:11 PM] Load Ban Manager ...
+[11:46:11 PM] Ban Manager By Dark Projector
+[11:46:11 PM] Load IngameOverlay ...
+[11:46:11 PM] Loaded 12 Plugins
+[11:46:11 PM] Loaded 2 Sources
+[11:46:11 PM] Loaded 1 Clients
+[11:46:11 PM] Loaded 27 Commands
+[11:46:11 PM] Loaded 12 Filters
+[11:46:11 PM]  !!EULA!! Accept this Eula to resume!
+[11:46:11 PM]  !!  1.!! This plugins will inject and modify osu! render
+[11:46:11 PM]  !!  2.!! Inject behavior like Steam's overlay
+[11:46:11 PM]  !!  3.!! In a particular environment, will cause banned 
+[11:46:11 PM]  !!  4.!! The author not take the consequences
+[11:46:11 PM]  !!====!! ====================================
+[11:46:11 PM]  !!    !! To Accept, Execute command 'overlay i' or 'o i' and start osu!
+[11:46:11 PM] Done
+[11:46:12 PM] [ConfigGUI]Enter "config" to open the configuration panel.
+[11:46:12 PM] [OsuRTDataProviderPlugin]Tourney Mode: False
+[11:46:12 PM] Fetch Sync update..
+[11:46:12 PM] Sync update check done.Enjoy~
+[11:46:12 PM] osu!Live Sync ver 2.18.5.0
+[11:46:12 PM] Type 'help' command for help
+[11:46:18 PM] [OsuRTDataProviderPlugin]ForceOsuSongsDirectory: 
+[11:46:18 PM] [OsuRTDataProviderPlugin]The ForceOsuSongsDirectory does not exist, try searching for the songs path.
+[11:46:18 PM] [OsuRTDataProviderPlugin]OSU Client Verison:b20201105beta ORTDP Version:1.6.6
+[11:46:18 PM] [OsuRTDataProviderPlugin]Osu Path: E:\loli hentai\osu!
+[11:46:18 PM] [OsuRTDataProviderPlugin]Beatmap Path: E:\loli hentai\osu!\Songs
+[11:46:18 PM] [OsuRTDataProviderPlugin][ID:0]Found osu!.exe process
+[11:46:19 PM] [OsuRTDataProviderPlugin][ID:0]Init StatusFinder Success!
+[11:46:19 PM] [OsuRTDataProviderPlugin]osu!version compatible condition: 20201105 < 20190816 ?
+[11:46:19 PM] [OsuRTDataProviderPlugin][ID:0]Init BeatmapFinder Success!
+[11:46:45 PM] [Overlay]Waiting for osu to start.
+[11:46:46 PM] [Overlay]Inject done.
+[11:46:49 PM] [OsuRTDataProviderPlugin][ID:0]Init PlayFinder Success!
+[11:46:49 PM] [OsuRTDataProviderPlugin][ID:0]Init ModeFinder Success!
+[11:46:49 PM] [OsuRTDataProviderPlugin][ID:0]Init HitEventFinder Success!
+[11:46:49 PM] [RTPPD::Mania]Difficulty:4.08*
+[11:46:55 PM] [RTPPD::Mania]Difficulty:4.08*
+[11:47:11 PM] [Overlay]Waiting for osu to start.
+[11:47:11 PM] [Overlay]Overlay already loaded

@@ -1,0 +1,13 @@
+To install cursors:
+
+1. Right-click the 'Install.inf' file and click Install
+
+2. Go to Windows' Control Panel and change your cursor to the Pulse Glass cursor set.
+
+
+
+
+Auto-install created by Skrell.
+
+Cursor created by Stamga.
+Visit stamga.deviantart for lots more great art.

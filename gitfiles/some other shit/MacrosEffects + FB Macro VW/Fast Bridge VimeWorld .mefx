@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DefaultMacro>
+    <Major />
+    <Description /> by shqmov
+    <Comment />
+    <Software>4124
+</Software>
+    <scanerKeys>2</scanerKeys>
+    <startKeys>112</startKeys>
+    <repeatKeys>4</repeatKeys>
+    <remoteMouseSpeed>false</remoteMouseSpeed>
+    <mouseSpeed>20</mouseSpeed>
+    <GUIOption>
+      <RepeatType>1</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax>KeyDown 16 1
+Delay 85 ms
+RightDown 1
+Delay 1 ms
+RightUp 1
+Delay 1 ms
+KeyUp 16 1
+Delay 214 ms
+</Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax />
+    </KeyDown>
+    <windowSize>
+      <X>1920</X>
+      <Y>1080
+</Y>
+    </windowSize>
+    <isDirectX>false</isDirectX>
+    <isUltraMode>false</isUltraMode>
+    <isStackMode>false</isStackMode>
+    <isHideMode>false</isHideMode>
+  </DefaultMacro>
+</Root>

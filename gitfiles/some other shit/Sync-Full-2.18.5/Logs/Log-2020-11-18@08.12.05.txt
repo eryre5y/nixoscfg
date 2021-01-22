@@ -1,0 +1,164 @@
+[8:12:05 PM] Loading....
+[8:12:06 PM] Load InternalPlugin ...
+[8:12:06 PM] Beatmap Suggest Command By Dark Projector
+[8:12:06 PM] Load Beatmap Suggest Command ...
+[8:12:06 PM] [BeatmapSuggestPlugin]there is no ApiKey in config.ini,please provide your osu!api_key for using.ApiKey address:https://osu.ppy.sh/p/api
+[8:12:06 PM] Load ConfigGUI ...
+[8:12:06 PM] Load Tray ...
+[8:12:06 PM] Load Default Plug-ins ...
+[8:12:06 PM] Default Plugin by Deliay
+[8:12:06 PM] Load Now Playing ...
+[8:12:06 PM] Now Playing By Deliay, DarkProjector
+[8:12:06 PM] MSN类注册成功！
+[8:12:06 PM] Load OsuRTDataProvider ...
+[8:12:06 PM] OsuRTDataProvider By KedamaOvO
+[8:12:06 PM] Load PP Query ...
+[8:12:06 PM] PP Query Plugin By Deliay >w<
+[8:12:06 PM] Load RealTimePPDisplayer ...
+[8:12:06 PM] RealTimePPDisplayer By KedamaOvO Ver.1.8.7
+[8:12:06 PM] Load Recently Message Query Plugin ...
+[8:12:06 PM] Recently Message Query Plugin By Dark Projector
+[8:12:06 PM] Load Ban Manager ...
+[8:12:06 PM] Ban Manager By Dark Projector
+[8:12:06 PM] Load IngameOverlay ...
+[8:12:06 PM] Loaded 12 Plugins
+[8:12:06 PM] Loaded 2 Sources
+[8:12:06 PM] Loaded 1 Clients
+[8:12:06 PM] Loaded 27 Commands
+[8:12:06 PM] Loaded 12 Filters
+[8:12:06 PM] [Overlay] Now you can type 'overlay osu' or 'o osu' to open 'osu! with overlay' .
+[8:12:06 PM] Done
+[8:12:06 PM] [ConfigGUI]Enter "config" to open the configuration panel.
+[8:12:06 PM] [OsuRTDataProviderPlugin]Tourney Mode: False
+[8:12:07 PM] Fetch Sync update..
+[8:12:10 PM] Sync update check done.Enjoy~
+[8:12:11 PM] osu!Live Sync ver 2.18.5.0
+[8:12:11 PM] Type 'help' command for help
+[8:12:14 PM] [OsuRTDataProviderPlugin]ForceOsuSongsDirectory: 
+[8:12:14 PM] [OsuRTDataProviderPlugin]The ForceOsuSongsDirectory does not exist, try searching for the songs path.
+[8:12:14 PM] [OsuRTDataProviderPlugin]OSU Client Verison:b20201105beta ORTDP Version:1.6.6
+[8:12:14 PM] [OsuRTDataProviderPlugin]Osu Path: E:\loli hentai\osu!
+[8:12:14 PM] [OsuRTDataProviderPlugin]Beatmap Path: E:\loli hentai\osu!\Songs
+[8:12:14 PM] [OsuRTDataProviderPlugin][ID:0]Found osu!.exe process
+[8:12:15 PM] [OsuRTDataProviderPlugin][ID:0]Init StatusFinder Success!
+[8:12:15 PM] [OsuRTDataProviderPlugin]osu!version compatible condition: 20201105 < 20190816 ?
+[8:12:15 PM] [OsuRTDataProviderPlugin][ID:0]Init BeatmapFinder Success!
+[8:12:17 PM] Command execution failed, type 'help' for command list.
+[8:13:16 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:13:22 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:13:28 PM] [OsuRTDataProviderPlugin]ForceOsuSongsDirectory: 
+[8:13:28 PM] [OsuRTDataProviderPlugin]The ForceOsuSongsDirectory does not exist, try searching for the songs path.
+[8:13:28 PM] [OsuRTDataProviderPlugin]OSU Client Verison:b20201105beta ORTDP Version:1.6.6
+[8:13:28 PM] [OsuRTDataProviderPlugin]Osu Path: E:\loli hentai\osu!
+[8:13:28 PM] [OsuRTDataProviderPlugin]Beatmap Path: E:\loli hentai\osu!\Songs
+[8:13:28 PM] [OsuRTDataProviderPlugin][ID:0]Found osu!.exe process
+[8:13:28 PM] [OsuRTDataProviderPlugin][ID:0]Init StatusFinder Success!
+[8:13:28 PM] [OsuRTDataProviderPlugin]osu!version compatible condition: 20201105 < 20190816 ?
+[8:13:28 PM] [OsuRTDataProviderPlugin][ID:0]Init BeatmapFinder Success!
+[8:13:32 PM] [Overlay]Waiting for osu to start.
+[8:13:33 PM] [Overlay]Inject done.
+[8:13:42 PM] [OsuRTDataProviderPlugin][ID:0]Init PlayFinder Success!
+[8:13:42 PM] [OsuRTDataProviderPlugin][ID:0]Init ModeFinder Success!
+[8:13:42 PM] [OsuRTDataProviderPlugin][ID:0]Init HitEventFinder Success!
+[8:13:44 PM] [RTPPD::Mania]Difficulty:4.12*
+[8:13:44 PM] [RealTimePPDisplayer]Memory Mapping Output File: rtpp
+[8:13:45 PM] [RTPPD::Mania]Difficulty:4.12*
+[8:14:24 PM] [RTPPD::Mania]Difficulty:4.12*
+[8:14:25 PM] [RTPPD::Mania]Difficulty:4.12*
+[8:14:27 PM] [RTPPD::Mania]Difficulty:4.12*
+[8:14:51 PM] [RTPPD::Mania]Difficulty:4.12*
+[8:14:58 PM] [RTPPD::Mania]Difficulty:4.12*
+[8:19:08 PM] [RTPPD]succducc - i really like u[you and i]  | 89.87% => 74.75pp (Mania)
+[8:19:43 PM] [RTPPD::Mania]Difficulty:5.47*
+[8:20:03 PM] [OsuRTDataProviderPlugin]ForceOsuSongsDirectory: 
+[8:20:03 PM] [OsuRTDataProviderPlugin]The ForceOsuSongsDirectory does not exist, try searching for the songs path.
+[8:20:03 PM] [OsuRTDataProviderPlugin]OSU Client Verison:b20201105beta ORTDP Version:1.6.6
+[8:20:03 PM] [OsuRTDataProviderPlugin]Osu Path: E:\loli hentai\osu!
+[8:20:03 PM] [OsuRTDataProviderPlugin]Beatmap Path: E:\loli hentai\osu!\Songs
+[8:20:03 PM] [OsuRTDataProviderPlugin][ID:0]Found osu!.exe process
+[8:20:03 PM] [OsuRTDataProviderPlugin][ID:0]Init StatusFinder Success!
+[8:20:03 PM] [OsuRTDataProviderPlugin]osu!version compatible condition: 20201105 < 20190816 ?
+[8:20:03 PM] [OsuRTDataProviderPlugin][ID:0]Init BeatmapFinder Success!
+[8:20:19 PM] [OsuRTDataProviderPlugin]ForceOsuSongsDirectory: 
+[8:20:19 PM] [OsuRTDataProviderPlugin]The ForceOsuSongsDirectory does not exist, try searching for the songs path.
+[8:20:19 PM] [OsuRTDataProviderPlugin]OSU Client Verison:b20201105beta ORTDP Version:1.6.6
+[8:20:19 PM] [OsuRTDataProviderPlugin]Osu Path: E:\loli hentai\osu!
+[8:20:19 PM] [OsuRTDataProviderPlugin]Beatmap Path: E:\loli hentai\osu!\Songs
+[8:20:19 PM] [OsuRTDataProviderPlugin][ID:0]Found osu!.exe process
+[8:20:19 PM] [OsuRTDataProviderPlugin][ID:0]Init StatusFinder Success!
+[8:20:19 PM] [OsuRTDataProviderPlugin]osu!version compatible condition: 20201105 < 20190816 ?
+[8:20:19 PM] [OsuRTDataProviderPlugin][ID:0]Init BeatmapFinder Success!
+[8:20:22 PM] [Overlay]Waiting for osu to start.
+[8:20:23 PM] [Overlay]Inject done.
+[8:20:32 PM] [OsuRTDataProviderPlugin][ID:0]Init PlayFinder Success!
+[8:20:32 PM] [OsuRTDataProviderPlugin][ID:0]Init ModeFinder Success!
+[8:20:32 PM] [OsuRTDataProviderPlugin][ID:0]Init HitEventFinder Success!
+[8:20:32 PM] [RTPPD::Mania]Difficulty:5.47*
+[8:20:32 PM] [RTPPD::Mania]Difficulty:5.47*
+[8:25:56 PM] [RTPPD]typeMARS - Triumph & Regret[Regret]  | 89.47% => 119.19pp (Mania)
+[8:27:48 PM] [RTPPD::Mania]Difficulty:4.62*
+[8:29:45 PM] [RTPPD]ARForest - Lantinid[MX]  | 87.62% => 66.83pp (Mania)
+[8:30:30 PM] [RTPPD::Mania]Difficulty:4.67*
+[8:34:32 PM] [RTPPD::Mania]Difficulty:4.67*
+[8:34:32 PM] [RTPPD::Mania]Difficulty:4.67*
+[8:35:02 PM] [RTPPD::Mania]Difficulty:4.67*
+[8:35:02 PM] [RTPPD::Mania]Difficulty:4.67*
+[8:36:58 PM] [RTPPD]Rootkit - Against The Sun (feat. Anna Yvette)[Insane]  | 90.82% => 23.76pp (Osu)
+[8:47:31 PM] [RTPPD]LVTHER - Some Kind Of Magic (Feat. MYZICA)[Queen Of Hearts]  | 93.69% => 46.45pp (Osu)
+[8:48:53 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:48:58 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:49:04 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:49:09 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:49:15 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:49:20 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:49:26 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:49:31 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:49:37 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:49:42 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:49:48 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:49:54 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:49:59 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:50:05 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:50:10 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:50:16 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:50:22 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:50:27 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:50:33 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:50:38 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:50:44 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:50:50 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:50:55 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:51:01 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:51:07 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:51:12 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:51:18 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:51:23 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:51:29 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:51:35 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:51:40 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:51:46 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:51:51 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:51:57 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:52:03 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:52:08 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:52:14 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:52:19 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:52:25 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:52:31 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:52:36 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:52:42 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:52:47 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:52:53 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:52:59 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:53:04 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:53:10 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:53:15 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:53:21 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:53:26 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:53:32 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:53:38 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:53:43 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:53:49 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:53:54 PM] [OsuRTDataProviderPlugin][ID:0]Cannot find osu!.exe process
+[8:53:55 PM] Exiting...
+[8:53:55 PM] Saved.
